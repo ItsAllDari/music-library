@@ -4,7 +4,7 @@
 <h2>A full stack application for users to keep track of their music library</h2>
 
 <h3>Front End Client</h3>
-<a href="https://github.com/ItsAllDari/music-library-client">
+<a href="https://github.com/ItsAllDari/music-library-client">Music Library Client</a>
 <p>The front end client is for the user to be able to see their music library, add albums/artists/songs and to delete any entries they no longer deem necessary.</p>
 
 <h3>Planning for the game</h3>

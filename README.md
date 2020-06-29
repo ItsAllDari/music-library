@@ -1,5 +1,3 @@
-# music-library
-
 <h1><strong>Music Library Application</strong></h1>
 <h2>A full stack application for users to keep track of their music library</h2>
 

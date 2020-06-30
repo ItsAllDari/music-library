@@ -5,16 +5,21 @@ const songSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  description: {
+  album: {
     type: String,
     required: true
   },
   artist: {
+    type: String,
+    required: true
+  },
+  owner: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: 'User'
+    ref: 'User',
+    required: true
   }
 }, {
   timestamps: true
 })
 
-module.exports = songSchema
+module.exports = mongoose.model('Song', songSchema)

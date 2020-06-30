@@ -1,4 +1,5 @@
 const mongoose = require('mongoose')
+// const songSchema = require('./song')
 
 const userSchema = new mongoose.Schema({
   email: {
@@ -9,6 +10,10 @@ const userSchema = new mongoose.Schema({
   hashedPassword: {
     type: String,
     required: true
+  },
+  owner: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User'
   },
   token: String
 }, {

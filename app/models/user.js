@@ -1,5 +1,4 @@
 const mongoose = require('mongoose')
-// const songSchema = require('./song')
 
 const userSchema = new mongoose.Schema({
   email: {

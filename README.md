@@ -9,7 +9,10 @@
 <p>I plan to follow a step by step process in order to successfully complete the project. I would like to begin with the back-end API set up and then move toward the user facing front end processes. There should be models for each user to have their own artists and albums that should be specific to them. The user should be able to successfully add music, see what is inside of their collection and also delete any albums or songs they no longer would like.</p>
 
 <h3>Wireframe</h3>
-<img src"">
+<img src"https://i.imgur.com/RWlELMf.jpg">
+
+<h3>ERD</h3>
+<img src"https://i.imgur.com/qHmgfxj.jpg">
 
 <h3>User Stories</h3>
 <ul>
@@ -29,5 +32,5 @@
 
 <h3>Unsolved problems</h3>
 <ul>
-<li></li>
+<li>The page decided to refresh after adding/updating once making delete a function</li>
 </ul>

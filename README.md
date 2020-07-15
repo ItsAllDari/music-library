@@ -4,6 +4,7 @@
 
 <h3>Front End Client</h3>
 <a href="https://itsalldari.github.io/music-library-client/">Music Library Client</a>
+<a href="https://github.com/ItsAllDari/music-library-client">GitHub Front End</a>
 <p>The front end client is for the user to be able to see their music library, add songs and to delete any entries they no longer deem necessary.</p>
 
 <h3>Planning for the game</h3>

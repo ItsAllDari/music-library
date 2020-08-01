@@ -1,5 +1,7 @@
 const mongoose = require('mongoose')
 
+const reviewSchema = require('./review')
+
 const songSchema = new mongoose.Schema({
   title: {
     type: String,
@@ -13,6 +15,7 @@ const songSchema = new mongoose.Schema({
     type: String,
     required: true
   },
+  reviews: [reviewSchema],
   owner: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',

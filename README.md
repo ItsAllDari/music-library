@@ -7,7 +7,7 @@
 <a href="https://github.com/ItsAllDari/music-library-client">GitHub Front End</a>
 <p>The front end client is for the user to be able to see their music library, add songs and to delete any entries they no longer deem necessary.</p>
 
-<h3>Planning for the game</h3>
+<h3>Planning for the application</h3>
 <p>I plan to follow a step by step process in order to successfully complete the project. I would like to begin with the back-end API set up and then move toward the user facing front end processes. There should be models for each user to have their own songs that should be specific to them. The user should be able to successfully add songs, see what is insigit git gde of their collection and also delete any songs they no longer enjoy.</p>
 
 <h3>ERD</h3>

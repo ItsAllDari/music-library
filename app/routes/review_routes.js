@@ -14,8 +14,7 @@ const removeBlanks = require('../../lib/remove_blank_fields')
 const requireToken = passport.authenticate('bearer', { session: false })
 
 // CREATE new review info
-router.post('/songs/:songId/reviews', requireToken, (req, res, next) => {
-  req.body.review.owner = req.user.id
+router.post('/songs/:songId/reviews', (req, res, next) => {
   const reviewData = req.body.review
   const songId = req.params.songId
 

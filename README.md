@@ -24,7 +24,7 @@
 <li>RESTful API</li>
 <li>Express</li>
 
-<h3>Unsolved problems</h3>
+<h3>Features in future iterations</h3>
 <ul>
-<li>Even though the songs are exclusive to each user, you can still see all of the resources in the catalog so it would be nice to have the "unusable" ones hidden.</li>
+<p>I would like to add a delete button feature for the reviews along with maybe added the date that they were created. Would also love to add a lot more styling to the page.</p>
 </ul>

@@ -16,6 +16,8 @@ Users are also now able to add their reviews for each song they add to their lib
 
 <h3>ERD</h3>
 
+<p>Entity Relatonship Diagram</p>
+
 ![Screen Shot 2020-09-02 at 8 27 00 AM](https://user-images.githubusercontent.com/58965588/91980976-22500180-ecf6-11ea-9b8c-d6c2ce5e67ef.png)
 
 <h3>Technologies Used</h3>

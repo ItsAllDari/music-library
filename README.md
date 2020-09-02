@@ -15,6 +15,7 @@ Users are also now able to add their reviews for each song they add to their lib
 <p>I plan to follow a step by step process in order to successfully complete the project. I would like to begin with the back-end API set up and then move toward the user facing front end processes. There should be models for each user to have their own songs that should be specific to them. The user should be able to successfully add songs, see what is insigit git gde of their collection and also delete any songs they no longer enjoy.</p>
 
 <h3>ERD</h3>
+
 ![Screen Shot 2020-09-02 at 8 27 00 AM](https://user-images.githubusercontent.com/58965588/91980976-22500180-ecf6-11ea-9b8c-d6c2ce5e67ef.png)
 
 <h3>Technologies Used</h3>
